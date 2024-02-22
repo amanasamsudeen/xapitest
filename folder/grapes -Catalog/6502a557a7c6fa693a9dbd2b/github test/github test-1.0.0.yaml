@@ -4,7 +4,7 @@ servers:
 info:
   contact: {}
   description: |-
-    The Postman API allows you to programmatically access data stored in Postman account with ease.
+    in Postman account with ease.d
 
     The easiest way to get started with the API is to click the **fork** button to fork this collection to your own workspace and use Postman to send requests.
 
