@@ -1,7 +1,8 @@
 openapi: 3.1.0
 info:
-  title: OpenAPI 3.1 Specification for CoffeeShop
-  summary: SampleSampleSample Coffee Shop Server based on the OpenAPI 3.1 specification.
+  title: OpenAPI 3.1 Specification for CoffeeShopCoffeeShopCoffeeShopCoffeeShop
+  summary: SampleSampleSample Coffee Shssoprs Server based on the OpenAPI 3.1
+    specification.
   description: This is a sample Coffee Shop Server based on the OpenAPI 3.1
     specification. It's the first version and includes several areas, such as
     'Menu', 'Order', 'User', 'Inventory', 'Notification', and more. We plan to
