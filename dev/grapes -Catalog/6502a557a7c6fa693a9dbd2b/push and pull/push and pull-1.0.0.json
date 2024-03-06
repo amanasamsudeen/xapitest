@@ -3,7 +3,7 @@ info:
   title: OpenAPI 3.1 Specification for tea
   summary: Sample Coffee Shssoprs Server based on the OpenAPI 3.1
     specification.
-  description: This is a sample Coffee Shop Server based on the OpenAPI 3.1
+  description: This is a amana Coffee Shop Server based on the OpenAPI 3.1
     specification. It's the first version and includes several areas, such as
     'Menu', 'Order', 'User', 'Inventory', 'Notification', and more. We plan to
     add more features in the future. Please refer to this sample and help us
