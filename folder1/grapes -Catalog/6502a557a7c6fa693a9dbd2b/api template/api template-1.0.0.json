@@ -3,7 +3,7 @@
   "info": {
     "title": "Taxi Service added 123ww API",
     "version": "1.0.0",
-    "description": "A RESTddful CRUD API for managing taxi bookings, drivers, and passengers."
+    "description": "A RESTdgynngdful CRUD API for managing taxi bookings, drivers, and passengers."
   },
   "components": {
     "securitySchemes": {
